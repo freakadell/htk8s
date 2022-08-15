@@ -6,7 +6,7 @@ spec:
   project: default
   
   source:
-    repoURL: https://github.com/fabito/htk8s.git
+    repoURL: https://github.com/freakadell/htk8s.git
     targetRevision: master
     path: overlays/x86
 
@@ -27,7 +27,7 @@ spec:
   project: default
   
   source:
-    repoURL: https://github.com/fabito/htk8s.git
+    repoURL: https://github.com/freakadell/htk8s.git
     targetRevision: master
     path: argocd
 
