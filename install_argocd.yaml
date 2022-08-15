@@ -3059,7 +3059,7 @@ spec:
   project: default
   source:
     path: argocd
-    repoURL: https://github.com/fabito/htk8s.git
+    repoURL: https://github.com/freakadell/htk8s.git
     targetRevision: master
   syncPolicy:
     automated:
@@ -3077,7 +3077,7 @@ spec:
   project: default
   source:
     path: overlays/x86
-    repoURL: https://github.com/fabito/htk8s.git
+    repoURL: https://github.com/freakadell/htk8s.git
     targetRevision: master
   syncPolicy:
     automated:
